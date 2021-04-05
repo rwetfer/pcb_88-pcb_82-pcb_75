@@ -1,0 +1,2882 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=pcb_75.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FUAEKQQI
+
+[Document2]
+DocumentPath=..\..\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=UTMtrans.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MVLZPJRD
+
+[Document4]
+DocumentPath=输出任务_PCB_75.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=EE5DEE19-3862-4289-B5B1-F26DB5E729FA
+Description=高等级阻感容
+AllowFabrication=1
+ParameterCount=0
+VariationCount=54
+Variation1=Designator=C1|UniqueId=\KLJPZDKF|Kind=2|AlternatePart=4.7uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0805-X5R-25V-475-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805_C|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=4.7uF
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Description|VariantValue=4.7uF,二类,±20%,10V,-55~125℃
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Footprint|VariantValue=R0805_C
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Library Reference|VariantValue=CT41G-0805-X5R-25V-475-K-N
+ParamDesignator6=C1
+ParamVariation7=ParameterName=PCB3D|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Pin Info|VariantValue= 
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Simulation|VariantValue= 
+ParamDesignator10=C1
+ParamVariation11=ParameterName=厂家|VariantValue=火炬
+ParamDesignator11=C1
+ParamVariation12=ParameterName=型号|VariantValue=QJB/K-CT41G-0805-X5R-25V-475-K-N
+ParamDesignator12=C1
+ParamVariation13=ParameterName=封装|VariantValue=0805
+ParamDesignator13=C1
+ParamVariation14=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator14=C1
+ParamVariation15=ParameterName=订货编码|VariantValue=/
+ParamDesignator15=C1
+Variation2=Designator=C3|UniqueId=\PFLPWWHE|Kind=2|AlternatePart=4.7uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0805-X5R-25V-475-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805_C|AltLibLink_IsSameFootprint=True
+ParamVariation16=ParameterName=Comment|VariantValue=4.7uF
+ParamDesignator16=C3
+ParamVariation17=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator17=C3
+ParamVariation18=ParameterName=Description|VariantValue=4.7uF,二类,±20%,10V,-55~125℃
+ParamDesignator18=C3
+ParamVariation19=ParameterName=Footprint|VariantValue=R0805_C
+ParamDesignator19=C3
+ParamVariation20=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator20=C3
+ParamVariation21=ParameterName=Library Reference|VariantValue=CT41G-0805-X5R-25V-475-K-N
+ParamDesignator21=C3
+ParamVariation22=ParameterName=PCB3D|VariantValue= 
+ParamDesignator22=C3
+ParamVariation23=ParameterName=Pin Info|VariantValue= 
+ParamDesignator23=C3
+ParamVariation24=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator24=C3
+ParamVariation25=ParameterName=Simulation|VariantValue= 
+ParamDesignator25=C3
+ParamVariation26=ParameterName=厂家|VariantValue=火炬
+ParamDesignator26=C3
+ParamVariation27=ParameterName=型号|VariantValue=QJB/K-CT41G-0805-X5R-25V-475-K-N
+ParamDesignator27=C3
+ParamVariation28=ParameterName=封装|VariantValue=0805
+ParamDesignator28=C3
+ParamVariation29=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator29=C3
+ParamVariation30=ParameterName=订货编码|VariantValue=/
+ParamDesignator30=C3
+Variation3=Designator=J1|UniqueId=\NHSJRNWX|Kind=1|AlternatePart= 
+Variation4=Designator=P1|UniqueId=\KLURPPLZ|Kind=1|AlternatePart= 
+Variation5=Designator=P2|UniqueId=\RIMDSXVN|Kind=1|AlternatePart= 
+Variation6=Designator=P4|UniqueId=\PSZEPNFZ|Kind=1|AlternatePart= 
+Variation7=Designator=P3|UniqueId=\PYNXNHQT|Kind=1|AlternatePart= 
+Variation8=Designator=R6|UniqueId=\MXXPXVPY|Kind=2|AlternatePart=0.5R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RM6332(2512)-K-B-0R5-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation31=ParameterName=Comment|VariantValue=0.5R
+ParamDesignator31=R6
+ParamVariation32=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator32=R6
+ParamVariation33=ParameterName=Description|VariantValue=0.5Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator33=R6
+ParamVariation34=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator34=R6
+ParamVariation35=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator35=R6
+ParamVariation36=ParameterName=Library Reference|VariantValue=RM6332(2512)-K-B-0R5-F
+ParamDesignator36=R6
+ParamVariation37=ParameterName=PCB3D|VariantValue= 
+ParamDesignator37=R6
+ParamVariation38=ParameterName=Pin Info|VariantValue= 
+ParamDesignator38=R6
+ParamVariation39=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator39=R6
+ParamVariation40=ParameterName=Simulation|VariantValue= 
+ParamDesignator40=R6
+ParamVariation41=ParameterName=厂家|VariantValue=718
+ParamDesignator41=R6
+ParamVariation42=ParameterName=型号|VariantValue="G"-RM6332(2512)-K-B-0R5-F-Q/RV20504A-2019
+ParamDesignator42=R6
+ParamVariation43=ParameterName=封装|VariantValue=2512
+ParamDesignator43=R6
+ParamVariation44=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator44=R6
+ParamVariation45=ParameterName=订货编码|VariantValue=/
+ParamDesignator45=R6
+Variation9=Designator=R8|UniqueId=\OFZGRZQR|Kind=2|AlternatePart=0.5R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RM6332(2512)-K-B-0R5-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation46=ParameterName=Comment|VariantValue=0.5R
+ParamDesignator46=R8
+ParamVariation47=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator47=R8
+ParamVariation48=ParameterName=Description|VariantValue=0.5Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator48=R8
+ParamVariation49=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator49=R8
+ParamVariation50=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator50=R8
+ParamVariation51=ParameterName=Library Reference|VariantValue=RM6332(2512)-K-B-0R5-F
+ParamDesignator51=R8
+ParamVariation52=ParameterName=PCB3D|VariantValue= 
+ParamDesignator52=R8
+ParamVariation53=ParameterName=Pin Info|VariantValue= 
+ParamDesignator53=R8
+ParamVariation54=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator54=R8
+ParamVariation55=ParameterName=Simulation|VariantValue= 
+ParamDesignator55=R8
+ParamVariation56=ParameterName=厂家|VariantValue=718
+ParamDesignator56=R8
+ParamVariation57=ParameterName=型号|VariantValue="G"-RM6332(2512)-K-B-0R5-F-Q/RV20504A-2019
+ParamDesignator57=R8
+ParamVariation58=ParameterName=封装|VariantValue=2512
+ParamDesignator58=R8
+ParamVariation59=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator59=R8
+ParamVariation60=ParameterName=订货编码|VariantValue=/
+ParamDesignator60=R8
+Variation10=Designator=R10|UniqueId=\RXERCWSF|Kind=2|AlternatePart=1M|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1004-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation61=ParameterName=Comment|VariantValue=1M
+ParamDesignator61=R10
+ParamVariation62=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator62=R10
+ParamVariation63=ParameterName=Description|VariantValue=1M,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator63=R10
+ParamVariation64=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator64=R10
+ParamVariation65=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator65=R10
+ParamVariation66=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1004-F
+ParamDesignator66=R10
+ParamVariation67=ParameterName=PCB3D|VariantValue= 
+ParamDesignator67=R10
+ParamVariation68=ParameterName=Pin Info|VariantValue= 
+ParamDesignator68=R10
+ParamVariation69=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator69=R10
+ParamVariation70=ParameterName=Simulation|VariantValue= 
+ParamDesignator70=R10
+ParamVariation71=ParameterName=厂家|VariantValue=718
+ParamDesignator71=R10
+ParamVariation72=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1004-F-LMS050101001-2017
+ParamDesignator72=R10
+ParamVariation73=ParameterName=封装|VariantValue=0603
+ParamDesignator73=R10
+ParamVariation74=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator74=R10
+ParamVariation75=ParameterName=订货编码|VariantValue=/
+ParamDesignator75=R10
+Variation11=Designator=R5|UniqueId=\EWPSJXYT|Kind=2|AlternatePart=1M|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1004-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation76=ParameterName=Comment|VariantValue=1M
+ParamDesignator76=R5
+ParamVariation77=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator77=R5
+ParamVariation78=ParameterName=Description|VariantValue=1M,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator78=R5
+ParamVariation79=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator79=R5
+ParamVariation80=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator80=R5
+ParamVariation81=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1004-F
+ParamDesignator81=R5
+ParamVariation82=ParameterName=PCB3D|VariantValue= 
+ParamDesignator82=R5
+ParamVariation83=ParameterName=Pin Info|VariantValue= 
+ParamDesignator83=R5
+ParamVariation84=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator84=R5
+ParamVariation85=ParameterName=Simulation|VariantValue= 
+ParamDesignator85=R5
+ParamVariation86=ParameterName=厂家|VariantValue=718
+ParamDesignator86=R5
+ParamVariation87=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1004-F-LMS050101001-2017
+ParamDesignator87=R5
+ParamVariation88=ParameterName=封装|VariantValue=0603
+ParamDesignator88=R5
+ParamVariation89=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator89=R5
+ParamVariation90=ParameterName=订货编码|VariantValue=/
+ParamDesignator90=R5
+Variation12=Designator=R12|UniqueId=\DNSDSYCR|Kind=2|AlternatePart=1R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1R0-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation91=ParameterName=Comment|VariantValue=1R
+ParamDesignator91=R12
+ParamVariation92=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator92=R12
+ParamVariation93=ParameterName=Description|VariantValue=1Ω ,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator93=R12
+ParamVariation94=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator94=R12
+ParamVariation95=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator95=R12
+ParamVariation96=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1R0-F
+ParamDesignator96=R12
+ParamVariation97=ParameterName=PCB3D|VariantValue= 
+ParamDesignator97=R12
+ParamVariation98=ParameterName=Pin Info|VariantValue= 
+ParamDesignator98=R12
+ParamVariation99=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator99=R12
+ParamVariation100=ParameterName=Simulation|VariantValue= 
+ParamDesignator100=R12
+ParamVariation101=ParameterName=厂家|VariantValue=718
+ParamDesignator101=R12
+ParamVariation102=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1R0-F-LMS050101001-2017
+ParamDesignator102=R12
+ParamVariation103=ParameterName=封装|VariantValue=0603
+ParamDesignator103=R12
+ParamVariation104=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator104=R12
+ParamVariation105=ParameterName=订货编码|VariantValue=/
+ParamDesignator105=R12
+Variation13=Designator=R3|UniqueId=\TUEMCWKZ|Kind=2|AlternatePart=1R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1R0-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation106=ParameterName=Comment|VariantValue=1R
+ParamDesignator106=R3
+ParamVariation107=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator107=R3
+ParamVariation108=ParameterName=Description|VariantValue=1Ω ,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator108=R3
+ParamVariation109=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator109=R3
+ParamVariation110=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator110=R3
+ParamVariation111=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1R0-F
+ParamDesignator111=R3
+ParamVariation112=ParameterName=PCB3D|VariantValue= 
+ParamDesignator112=R3
+ParamVariation113=ParameterName=Pin Info|VariantValue= 
+ParamDesignator113=R3
+ParamVariation114=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator114=R3
+ParamVariation115=ParameterName=Simulation|VariantValue= 
+ParamDesignator115=R3
+ParamVariation116=ParameterName=厂家|VariantValue=718
+ParamDesignator116=R3
+ParamVariation117=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1R0-F-LMS050101001-2017
+ParamDesignator117=R3
+ParamVariation118=ParameterName=封装|VariantValue=0603
+ParamDesignator118=R3
+ParamVariation119=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator119=R3
+ParamVariation120=ParameterName=订货编码|VariantValue=/
+ParamDesignator120=R3
+Variation14=Designator=R2|UniqueId=\VXVJUVNE|Kind=2|AlternatePart=1R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1R0-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation121=ParameterName=Comment|VariantValue=1R
+ParamDesignator121=R2
+ParamVariation122=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator122=R2
+ParamVariation123=ParameterName=Description|VariantValue=1Ω ,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator123=R2
+ParamVariation124=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator124=R2
+ParamVariation125=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator125=R2
+ParamVariation126=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1R0-F
+ParamDesignator126=R2
+ParamVariation127=ParameterName=PCB3D|VariantValue= 
+ParamDesignator127=R2
+ParamVariation128=ParameterName=Pin Info|VariantValue= 
+ParamDesignator128=R2
+ParamVariation129=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator129=R2
+ParamVariation130=ParameterName=Simulation|VariantValue= 
+ParamDesignator130=R2
+ParamVariation131=ParameterName=厂家|VariantValue=718
+ParamDesignator131=R2
+ParamVariation132=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1R0-F-LMS050101001-2017
+ParamDesignator132=R2
+ParamVariation133=ParameterName=封装|VariantValue=0603
+ParamDesignator133=R2
+ParamVariation134=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator134=R2
+ParamVariation135=ParameterName=订货编码|VariantValue=/
+ParamDesignator135=R2
+Variation15=Designator=R4|UniqueId=\LHZUYUGD|Kind=2|AlternatePart=1R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1R0-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation136=ParameterName=Comment|VariantValue=1R
+ParamDesignator136=R4
+ParamVariation137=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator137=R4
+ParamVariation138=ParameterName=Description|VariantValue=1Ω ,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator138=R4
+ParamVariation139=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator139=R4
+ParamVariation140=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator140=R4
+ParamVariation141=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1R0-F
+ParamDesignator141=R4
+ParamVariation142=ParameterName=PCB3D|VariantValue= 
+ParamDesignator142=R4
+ParamVariation143=ParameterName=Pin Info|VariantValue= 
+ParamDesignator143=R4
+ParamVariation144=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator144=R4
+ParamVariation145=ParameterName=Simulation|VariantValue= 
+ParamDesignator145=R4
+ParamVariation146=ParameterName=厂家|VariantValue=718
+ParamDesignator146=R4
+ParamVariation147=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1R0-F-LMS050101001-2017
+ParamDesignator147=R4
+ParamVariation148=ParameterName=封装|VariantValue=0603
+ParamDesignator148=R4
+ParamVariation149=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator149=R4
+ParamVariation150=ParameterName=订货编码|VariantValue=/
+ParamDesignator150=R4
+Variation16=Designator=R14|UniqueId=\VWODBOME|Kind=2|AlternatePart=1R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1R0-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation151=ParameterName=Comment|VariantValue=1R
+ParamDesignator151=R14
+ParamVariation152=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator152=R14
+ParamVariation153=ParameterName=Description|VariantValue=1Ω ,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator153=R14
+ParamVariation154=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator154=R14
+ParamVariation155=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator155=R14
+ParamVariation156=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1R0-F
+ParamDesignator156=R14
+ParamVariation157=ParameterName=PCB3D|VariantValue= 
+ParamDesignator157=R14
+ParamVariation158=ParameterName=Pin Info|VariantValue= 
+ParamDesignator158=R14
+ParamVariation159=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator159=R14
+ParamVariation160=ParameterName=Simulation|VariantValue= 
+ParamDesignator160=R14
+ParamVariation161=ParameterName=厂家|VariantValue=718
+ParamDesignator161=R14
+ParamVariation162=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1R0-F-LMS050101001-2017
+ParamDesignator162=R14
+ParamVariation163=ParameterName=封装|VariantValue=0603
+ParamDesignator163=R14
+ParamVariation164=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator164=R14
+ParamVariation165=ParameterName=订货编码|VariantValue=/
+ParamDesignator165=R14
+Variation17=Designator=R13|UniqueId=\HAILITNQ|Kind=2|AlternatePart=1R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK1608-K-B-1R0-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_R|AltLibLink_IsSameFootprint=True
+ParamVariation166=ParameterName=Comment|VariantValue=1R
+ParamDesignator166=R13
+ParamVariation167=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator167=R13
+ParamVariation168=ParameterName=Description|VariantValue=1Ω ,±1%,50V,0.1W,±100ppm/℃
+ParamDesignator168=R13
+ParamVariation169=ParameterName=Footprint|VariantValue=R0603_R
+ParamDesignator169=R13
+ParamVariation170=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator170=R13
+ParamVariation171=ParameterName=Library Reference|VariantValue=RMK1608-K-B-1R0-F
+ParamDesignator171=R13
+ParamVariation172=ParameterName=PCB3D|VariantValue= 
+ParamDesignator172=R13
+ParamVariation173=ParameterName=Pin Info|VariantValue= 
+ParamDesignator173=R13
+ParamVariation174=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator174=R13
+ParamVariation175=ParameterName=Simulation|VariantValue= 
+ParamDesignator175=R13
+ParamVariation176=ParameterName=厂家|VariantValue=718
+ParamDesignator176=R13
+ParamVariation177=ParameterName=型号|VariantValue=“LMS”RMK1608-K-B-1R0-F-LMS050101001-2017
+ParamDesignator177=R13
+ParamVariation178=ParameterName=封装|VariantValue=0603
+ParamDesignator178=R13
+ParamVariation179=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator179=R13
+ParamVariation180=ParameterName=订货编码|VariantValue=/
+ParamDesignator180=R13
+Variation18=Designator=R15|UniqueId=\RZUTRYUO|Kind=2|AlternatePart=150R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK6332-K-B-1500-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation181=ParameterName=Comment|VariantValue=150R
+ParamDesignator181=R15
+ParamVariation182=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator182=R15
+ParamVariation183=ParameterName=Description|VariantValue=150Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator183=R15
+ParamVariation184=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator184=R15
+ParamVariation185=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator185=R15
+ParamVariation186=ParameterName=Library Reference|VariantValue=RMK6332-K-B-1500-F
+ParamDesignator186=R15
+ParamVariation187=ParameterName=PCB3D|VariantValue= 
+ParamDesignator187=R15
+ParamVariation188=ParameterName=Pin Info|VariantValue= 
+ParamDesignator188=R15
+ParamVariation189=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator189=R15
+ParamVariation190=ParameterName=Simulation|VariantValue= 
+ParamDesignator190=R15
+ParamVariation191=ParameterName=厂家|VariantValue=718
+ParamDesignator191=R15
+ParamVariation192=ParameterName=型号|VariantValue=“LMS”RMK6332-K-B-1500-F-LMS050101001-2017
+ParamDesignator192=R15
+ParamVariation193=ParameterName=封装|VariantValue=2512
+ParamDesignator193=R15
+ParamVariation194=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator194=R15
+ParamVariation195=ParameterName=订货编码|VariantValue=/
+ParamDesignator195=R15
+Variation19=Designator=R16|UniqueId=\ZLKDKUSZ|Kind=2|AlternatePart=150R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK6332-K-B-1500-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation196=ParameterName=Comment|VariantValue=150R
+ParamDesignator196=R16
+ParamVariation197=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator197=R16
+ParamVariation198=ParameterName=Description|VariantValue=150Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator198=R16
+ParamVariation199=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator199=R16
+ParamVariation200=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator200=R16
+ParamVariation201=ParameterName=Library Reference|VariantValue=RMK6332-K-B-1500-F
+ParamDesignator201=R16
+ParamVariation202=ParameterName=PCB3D|VariantValue= 
+ParamDesignator202=R16
+ParamVariation203=ParameterName=Pin Info|VariantValue= 
+ParamDesignator203=R16
+ParamVariation204=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator204=R16
+ParamVariation205=ParameterName=Simulation|VariantValue= 
+ParamDesignator205=R16
+ParamVariation206=ParameterName=厂家|VariantValue=718
+ParamDesignator206=R16
+ParamVariation207=ParameterName=型号|VariantValue=“LMS”RMK6332-K-B-1500-F-LMS050101001-2017
+ParamDesignator207=R16
+ParamVariation208=ParameterName=封装|VariantValue=2512
+ParamDesignator208=R16
+ParamVariation209=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator209=R16
+ParamVariation210=ParameterName=订货编码|VariantValue=/
+ParamDesignator210=R16
+Variation20=Designator=R7|UniqueId=\OYKEUGUO|Kind=2|AlternatePart=330R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK6332-K-B-3300-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation211=ParameterName=Comment|VariantValue=330R
+ParamDesignator211=R7
+ParamVariation212=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator212=R7
+ParamVariation213=ParameterName=Description|VariantValue=330Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator213=R7
+ParamVariation214=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator214=R7
+ParamVariation215=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator215=R7
+ParamVariation216=ParameterName=Library Reference|VariantValue=RMK6332-K-B-3300-F
+ParamDesignator216=R7
+ParamVariation217=ParameterName=PCB3D|VariantValue= 
+ParamDesignator217=R7
+ParamVariation218=ParameterName=Pin Info|VariantValue= 
+ParamDesignator218=R7
+ParamVariation219=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator219=R7
+ParamVariation220=ParameterName=Simulation|VariantValue= 
+ParamDesignator220=R7
+ParamVariation221=ParameterName=厂家|VariantValue=718
+ParamDesignator221=R7
+ParamVariation222=ParameterName=型号|VariantValue=“LMS”RMK6332-K-B-3300-F-LMS050101001-2017
+ParamDesignator222=R7
+ParamVariation223=ParameterName=封装|VariantValue=2512
+ParamDesignator223=R7
+ParamVariation224=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator224=R7
+ParamVariation225=ParameterName=订货编码|VariantValue=/
+ParamDesignator225=R7
+Variation21=Designator=R9|UniqueId=\CUVLEVHJ|Kind=2|AlternatePart=330R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK6332-K-B-3300-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation226=ParameterName=Comment|VariantValue=330R
+ParamDesignator226=R9
+ParamVariation227=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator227=R9
+ParamVariation228=ParameterName=Description|VariantValue=330Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator228=R9
+ParamVariation229=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator229=R9
+ParamVariation230=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator230=R9
+ParamVariation231=ParameterName=Library Reference|VariantValue=RMK6332-K-B-3300-F
+ParamDesignator231=R9
+ParamVariation232=ParameterName=PCB3D|VariantValue= 
+ParamDesignator232=R9
+ParamVariation233=ParameterName=Pin Info|VariantValue= 
+ParamDesignator233=R9
+ParamVariation234=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator234=R9
+ParamVariation235=ParameterName=Simulation|VariantValue= 
+ParamDesignator235=R9
+ParamVariation236=ParameterName=厂家|VariantValue=718
+ParamDesignator236=R9
+ParamVariation237=ParameterName=型号|VariantValue=“LMS”RMK6332-K-B-3300-F-LMS050101001-2017
+ParamDesignator237=R9
+ParamVariation238=ParameterName=封装|VariantValue=2512
+ParamDesignator238=R9
+ParamVariation239=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator239=R9
+ParamVariation240=ParameterName=订货编码|VariantValue=/
+ParamDesignator240=R9
+Variation22=Designator=R1|UniqueId=\RHBLCSRI|Kind=2|AlternatePart=750R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK6332-K-B-7500-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation241=ParameterName=Comment|VariantValue=750R
+ParamDesignator241=R1
+ParamVariation242=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator242=R1
+ParamVariation243=ParameterName=Description|VariantValue=750Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator243=R1
+ParamVariation244=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator244=R1
+ParamVariation245=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator245=R1
+ParamVariation246=ParameterName=Library Reference|VariantValue=RMK6332-K-B-7500-F
+ParamDesignator246=R1
+ParamVariation247=ParameterName=PCB3D|VariantValue= 
+ParamDesignator247=R1
+ParamVariation248=ParameterName=Pin Info|VariantValue= 
+ParamDesignator248=R1
+ParamVariation249=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator249=R1
+ParamVariation250=ParameterName=Simulation|VariantValue= 
+ParamDesignator250=R1
+ParamVariation251=ParameterName=厂家|VariantValue=718
+ParamDesignator251=R1
+ParamVariation252=ParameterName=型号|VariantValue=“LMS”RMK6332-K-B-7500-F-LMS050101001-2017
+ParamDesignator252=R1
+ParamVariation253=ParameterName=封装|VariantValue=2512
+ParamDesignator253=R1
+ParamVariation254=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator254=R1
+ParamVariation255=ParameterName=订货编码|VariantValue=/
+ParamDesignator255=R1
+Variation23=Designator=R11|UniqueId=\SMUPHCSV|Kind=2|AlternatePart=750R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RMK6332-K-B-7500-F|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R2512_R|AltLibLink_IsSameFootprint=True
+ParamVariation256=ParameterName=Comment|VariantValue=750R
+ParamDesignator256=R11
+ParamVariation257=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator257=R11
+ParamVariation258=ParameterName=Description|VariantValue=750Ω ,±1%,200V,1W,±100ppm/℃
+ParamDesignator258=R11
+ParamVariation259=ParameterName=Footprint|VariantValue=R2512_R
+ParamDesignator259=R11
+ParamVariation260=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator260=R11
+ParamVariation261=ParameterName=Library Reference|VariantValue=RMK6332-K-B-7500-F
+ParamDesignator261=R11
+ParamVariation262=ParameterName=PCB3D|VariantValue= 
+ParamDesignator262=R11
+ParamVariation263=ParameterName=Pin Info|VariantValue= 
+ParamDesignator263=R11
+ParamVariation264=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator264=R11
+ParamVariation265=ParameterName=Simulation|VariantValue= 
+ParamDesignator265=R11
+ParamVariation266=ParameterName=厂家|VariantValue=718
+ParamDesignator266=R11
+ParamVariation267=ParameterName=型号|VariantValue=“LMS”RMK6332-K-B-7500-F-LMS050101001-2017
+ParamDesignator267=R11
+ParamVariation268=ParameterName=封装|VariantValue=2512
+ParamDesignator268=R11
+ParamVariation269=ParameterName=类型|VariantValue=片式膜固定电阻器
+ParamDesignator269=R11
+ParamVariation270=ParameterName=订货编码|VariantValue=/
+ParamDesignator270=R11
+Variation24=Designator=C11|UniqueId=\FHORQAWB|Kind=2|AlternatePart=4.7uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0805-X5R-25V-475-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805_C|AltLibLink_IsSameFootprint=True
+ParamVariation271=ParameterName=Comment|VariantValue=4.7uF
+ParamDesignator271=C11
+ParamVariation272=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator272=C11
+ParamVariation273=ParameterName=Description|VariantValue=4.7uF,二类,±20%,10V,-55~125℃
+ParamDesignator273=C11
+ParamVariation274=ParameterName=Footprint|VariantValue=R0805_C
+ParamDesignator274=C11
+ParamVariation275=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator275=C11
+ParamVariation276=ParameterName=Library Reference|VariantValue=CT41G-0805-X5R-25V-475-K-N
+ParamDesignator276=C11
+ParamVariation277=ParameterName=PCB3D|VariantValue= 
+ParamDesignator277=C11
+ParamVariation278=ParameterName=Pin Info|VariantValue= 
+ParamDesignator278=C11
+ParamVariation279=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator279=C11
+ParamVariation280=ParameterName=Simulation|VariantValue= 
+ParamDesignator280=C11
+ParamVariation281=ParameterName=厂家|VariantValue=火炬
+ParamDesignator281=C11
+ParamVariation282=ParameterName=型号|VariantValue=QJB/K-CT41G-0805-X5R-25V-475-K-N
+ParamDesignator282=C11
+ParamVariation283=ParameterName=封装|VariantValue=0805
+ParamDesignator283=C11
+ParamVariation284=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator284=C11
+ParamVariation285=ParameterName=订货编码|VariantValue=/
+ParamDesignator285=C11
+Variation25=Designator=C7|UniqueId=\RPJHKWSA|Kind=2|AlternatePart=4.7uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0805-X5R-25V-475-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805_C|AltLibLink_IsSameFootprint=True
+ParamVariation286=ParameterName=Comment|VariantValue=4.7uF
+ParamDesignator286=C7
+ParamVariation287=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator287=C7
+ParamVariation288=ParameterName=Description|VariantValue=4.7uF,二类,±20%,10V,-55~125℃
+ParamDesignator288=C7
+ParamVariation289=ParameterName=Footprint|VariantValue=R0805_C
+ParamDesignator289=C7
+ParamVariation290=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator290=C7
+ParamVariation291=ParameterName=Library Reference|VariantValue=CT41G-0805-X5R-25V-475-K-N
+ParamDesignator291=C7
+ParamVariation292=ParameterName=PCB3D|VariantValue= 
+ParamDesignator292=C7
+ParamVariation293=ParameterName=Pin Info|VariantValue= 
+ParamDesignator293=C7
+ParamVariation294=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator294=C7
+ParamVariation295=ParameterName=Simulation|VariantValue= 
+ParamDesignator295=C7
+ParamVariation296=ParameterName=厂家|VariantValue=火炬
+ParamDesignator296=C7
+ParamVariation297=ParameterName=型号|VariantValue=QJB/K-CT41G-0805-X5R-25V-475-K-N
+ParamDesignator297=C7
+ParamVariation298=ParameterName=封装|VariantValue=0805
+ParamDesignator298=C7
+ParamVariation299=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator299=C7
+ParamVariation300=ParameterName=订货编码|VariantValue=/
+ParamDesignator300=C7
+Variation26=Designator=C12|UniqueId=\YWSIQHGK|Kind=2|AlternatePart=100nF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0603-X7R-50V-104-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation301=ParameterName=Comment|VariantValue=100nF
+ParamDesignator301=C12
+ParamVariation302=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator302=C12
+ParamVariation303=ParameterName=Description|VariantValue=100nF,二类,±10%,50V,-55~125℃
+ParamDesignator303=C12
+ParamVariation304=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator304=C12
+ParamVariation305=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator305=C12
+ParamVariation306=ParameterName=Library Reference|VariantValue=CT41G-0603-X7R-50V-104-K-N
+ParamDesignator306=C12
+ParamVariation307=ParameterName=PCB3D|VariantValue= 
+ParamDesignator307=C12
+ParamVariation308=ParameterName=Pin Info|VariantValue= 
+ParamDesignator308=C12
+ParamVariation309=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator309=C12
+ParamVariation310=ParameterName=Simulation|VariantValue= 
+ParamDesignator310=C12
+ParamVariation311=ParameterName=厂家|VariantValue=火炬
+ParamDesignator311=C12
+ParamVariation312=ParameterName=型号|VariantValue=QJB/K+-CT41G-0603-X7R-50V-104-K-N
+ParamDesignator312=C12
+ParamVariation313=ParameterName=封装|VariantValue=0603
+ParamDesignator313=C12
+ParamVariation314=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator314=C12
+ParamVariation315=ParameterName=订货编码|VariantValue=/
+ParamDesignator315=C12
+Variation27=Designator=C2|UniqueId=\UHUNAOXN|Kind=2|AlternatePart=100nF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0603-X7R-50V-104-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation316=ParameterName=Comment|VariantValue=100nF
+ParamDesignator316=C2
+ParamVariation317=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator317=C2
+ParamVariation318=ParameterName=Description|VariantValue=100nF,二类,±10%,50V,-55~125℃
+ParamDesignator318=C2
+ParamVariation319=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator319=C2
+ParamVariation320=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator320=C2
+ParamVariation321=ParameterName=Library Reference|VariantValue=CT41G-0603-X7R-50V-104-K-N
+ParamDesignator321=C2
+ParamVariation322=ParameterName=PCB3D|VariantValue= 
+ParamDesignator322=C2
+ParamVariation323=ParameterName=Pin Info|VariantValue= 
+ParamDesignator323=C2
+ParamVariation324=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator324=C2
+ParamVariation325=ParameterName=Simulation|VariantValue= 
+ParamDesignator325=C2
+ParamVariation326=ParameterName=厂家|VariantValue=火炬
+ParamDesignator326=C2
+ParamVariation327=ParameterName=型号|VariantValue=QJB/K+-CT41G-0603-X7R-50V-104-K-N
+ParamDesignator327=C2
+ParamVariation328=ParameterName=封装|VariantValue=0603
+ParamDesignator328=C2
+ParamVariation329=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator329=C2
+ParamVariation330=ParameterName=订货编码|VariantValue=/
+ParamDesignator330=C2
+Variation28=Designator=C8|UniqueId=\RHVYMCDX|Kind=2|AlternatePart=100nF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0603-X7R-50V-104-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation331=ParameterName=Comment|VariantValue=100nF
+ParamDesignator331=C8
+ParamVariation332=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator332=C8
+ParamVariation333=ParameterName=Description|VariantValue=100nF,二类,±10%,50V,-55~125℃
+ParamDesignator333=C8
+ParamVariation334=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator334=C8
+ParamVariation335=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator335=C8
+ParamVariation336=ParameterName=Library Reference|VariantValue=CT41G-0603-X7R-50V-104-K-N
+ParamDesignator336=C8
+ParamVariation337=ParameterName=PCB3D|VariantValue= 
+ParamDesignator337=C8
+ParamVariation338=ParameterName=Pin Info|VariantValue= 
+ParamDesignator338=C8
+ParamVariation339=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator339=C8
+ParamVariation340=ParameterName=Simulation|VariantValue= 
+ParamDesignator340=C8
+ParamVariation341=ParameterName=厂家|VariantValue=火炬
+ParamDesignator341=C8
+ParamVariation342=ParameterName=型号|VariantValue=QJB/K+-CT41G-0603-X7R-50V-104-K-N
+ParamDesignator342=C8
+ParamVariation343=ParameterName=封装|VariantValue=0603
+ParamDesignator343=C8
+ParamVariation344=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator344=C8
+ParamVariation345=ParameterName=订货编码|VariantValue=/
+ParamDesignator345=C8
+Variation29=Designator=C4|UniqueId=\FVVCAVUZ|Kind=2|AlternatePart=100nF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CT41G-0603-X7R-50V-104-K-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation346=ParameterName=Comment|VariantValue=100nF
+ParamDesignator346=C4
+ParamVariation347=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator347=C4
+ParamVariation348=ParameterName=Description|VariantValue=100nF,二类,±10%,50V,-55~125℃
+ParamDesignator348=C4
+ParamVariation349=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator349=C4
+ParamVariation350=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator350=C4
+ParamVariation351=ParameterName=Library Reference|VariantValue=CT41G-0603-X7R-50V-104-K-N
+ParamDesignator351=C4
+ParamVariation352=ParameterName=PCB3D|VariantValue= 
+ParamDesignator352=C4
+ParamVariation353=ParameterName=Pin Info|VariantValue= 
+ParamDesignator353=C4
+ParamVariation354=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator354=C4
+ParamVariation355=ParameterName=Simulation|VariantValue= 
+ParamDesignator355=C4
+ParamVariation356=ParameterName=厂家|VariantValue=火炬
+ParamDesignator356=C4
+ParamVariation357=ParameterName=型号|VariantValue=QJB/K+-CT41G-0603-X7R-50V-104-K-N
+ParamDesignator357=C4
+ParamVariation358=ParameterName=封装|VariantValue=0603
+ParamDesignator358=C4
+ParamVariation359=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator359=C4
+ParamVariation360=ParameterName=订货编码|VariantValue=/
+ParamDesignator360=C4
+Variation30=Designator=C10|UniqueId=\OPBLDKSR|Kind=2|AlternatePart=100pF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CC41-0603-CG-50V-101-J-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation361=ParameterName=Comment|VariantValue=100pF
+ParamDesignator361=C10
+ParamVariation362=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator362=C10
+ParamVariation363=ParameterName=Description|VariantValue=100pF,一类,±5%,50V,-55~125℃
+ParamDesignator363=C10
+ParamVariation364=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator364=C10
+ParamVariation365=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator365=C10
+ParamVariation366=ParameterName=Library Reference|VariantValue=CC41-0603-CG-50V-101-J-N
+ParamDesignator366=C10
+ParamVariation367=ParameterName=PCB3D|VariantValue= 
+ParamDesignator367=C10
+ParamVariation368=ParameterName=Pin Info|VariantValue= 
+ParamDesignator368=C10
+ParamVariation369=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator369=C10
+ParamVariation370=ParameterName=Simulation|VariantValue= 
+ParamDesignator370=C10
+ParamVariation371=ParameterName=厂家|VariantValue=火炬
+ParamDesignator371=C10
+ParamVariation372=ParameterName=型号|VariantValue=QJB/K+-CC41-0603-CG-50V-101-J-N
+ParamDesignator372=C10
+ParamVariation373=ParameterName=封装|VariantValue=0603
+ParamDesignator373=C10
+ParamVariation374=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator374=C10
+ParamVariation375=ParameterName=订货编码|VariantValue=/
+ParamDesignator375=C10
+Variation31=Designator=C9|UniqueId=\IGYMJHRG|Kind=2|AlternatePart=100pF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CC41-0603-CG-50V-101-J-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation376=ParameterName=Comment|VariantValue=100pF
+ParamDesignator376=C9
+ParamVariation377=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator377=C9
+ParamVariation378=ParameterName=Description|VariantValue=100pF,一类,±5%,50V,-55~125℃
+ParamDesignator378=C9
+ParamVariation379=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator379=C9
+ParamVariation380=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator380=C9
+ParamVariation381=ParameterName=Library Reference|VariantValue=CC41-0603-CG-50V-101-J-N
+ParamDesignator381=C9
+ParamVariation382=ParameterName=PCB3D|VariantValue= 
+ParamDesignator382=C9
+ParamVariation383=ParameterName=Pin Info|VariantValue= 
+ParamDesignator383=C9
+ParamVariation384=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator384=C9
+ParamVariation385=ParameterName=Simulation|VariantValue= 
+ParamDesignator385=C9
+ParamVariation386=ParameterName=厂家|VariantValue=火炬
+ParamDesignator386=C9
+ParamVariation387=ParameterName=型号|VariantValue=QJB/K+-CC41-0603-CG-50V-101-J-N
+ParamDesignator387=C9
+ParamVariation388=ParameterName=封装|VariantValue=0603
+ParamDesignator388=C9
+ParamVariation389=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator389=C9
+ParamVariation390=ParameterName=订货编码|VariantValue=/
+ParamDesignator390=C9
+Variation32=Designator=C5|UniqueId=\ONXTWNLL|Kind=2|AlternatePart=100pF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CC41-0603-CG-50V-101-J-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation391=ParameterName=Comment|VariantValue=100pF
+ParamDesignator391=C5
+ParamVariation392=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator392=C5
+ParamVariation393=ParameterName=Description|VariantValue=100pF,一类,±5%,50V,-55~125℃
+ParamDesignator393=C5
+ParamVariation394=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator394=C5
+ParamVariation395=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator395=C5
+ParamVariation396=ParameterName=Library Reference|VariantValue=CC41-0603-CG-50V-101-J-N
+ParamDesignator396=C5
+ParamVariation397=ParameterName=PCB3D|VariantValue= 
+ParamDesignator397=C5
+ParamVariation398=ParameterName=Pin Info|VariantValue= 
+ParamDesignator398=C5
+ParamVariation399=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator399=C5
+ParamVariation400=ParameterName=Simulation|VariantValue= 
+ParamDesignator400=C5
+ParamVariation401=ParameterName=厂家|VariantValue=火炬
+ParamDesignator401=C5
+ParamVariation402=ParameterName=型号|VariantValue=QJB/K+-CC41-0603-CG-50V-101-J-N
+ParamDesignator402=C5
+ParamVariation403=ParameterName=封装|VariantValue=0603
+ParamDesignator403=C5
+ParamVariation404=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator404=C5
+ParamVariation405=ParameterName=订货编码|VariantValue=/
+ParamDesignator405=C5
+Variation33=Designator=C6|UniqueId=\BBIQVTGT|Kind=2|AlternatePart=100pF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CC41-0603-CG-50V-101-J-N|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0603_C|AltLibLink_IsSameFootprint=True
+ParamVariation406=ParameterName=Comment|VariantValue=100pF
+ParamDesignator406=C6
+ParamVariation407=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator407=C6
+ParamVariation408=ParameterName=Description|VariantValue=100pF,一类,±5%,50V,-55~125℃
+ParamDesignator408=C6
+ParamVariation409=ParameterName=Footprint|VariantValue=R0603_C
+ParamDesignator409=C6
+ParamVariation410=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator410=C6
+ParamVariation411=ParameterName=Library Reference|VariantValue=CC41-0603-CG-50V-101-J-N
+ParamDesignator411=C6
+ParamVariation412=ParameterName=PCB3D|VariantValue= 
+ParamDesignator412=C6
+ParamVariation413=ParameterName=Pin Info|VariantValue= 
+ParamDesignator413=C6
+ParamVariation414=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator414=C6
+ParamVariation415=ParameterName=Simulation|VariantValue= 
+ParamDesignator415=C6
+ParamVariation416=ParameterName=厂家|VariantValue=火炬
+ParamDesignator416=C6
+ParamVariation417=ParameterName=型号|VariantValue=QJB/K+-CC41-0603-CG-50V-101-J-N
+ParamDesignator417=C6
+ParamVariation418=ParameterName=封装|VariantValue=0603
+ParamDesignator418=C6
+ParamVariation419=ParameterName=类型|VariantValue=片式多层瓷介电容器
+ParamDesignator419=C6
+ParamVariation420=ParameterName=订货编码|VariantValue=/
+ParamDesignator420=C6
+Variation34=Designator=B1|UniqueId=\RSKXPEOH|Kind=2|AlternatePart=1000Ω@100MHz|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=PB3216-102/1A0|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R1206_L|AltLibLink_IsSameFootprint=True
+ParamVariation421=ParameterName=Comment|VariantValue=1000Ω@100MHz
+ParamDesignator421=B1
+ParamVariation422=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator422=B1
+ParamVariation423=ParameterName=Description|VariantValue=1000Ω @ 100MHz ±25%
+ParamDesignator423=B1
+ParamVariation424=ParameterName=Footprint|VariantValue=R1206_L
+ParamDesignator424=B1
+ParamVariation425=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator425=B1
+ParamVariation426=ParameterName=Library Reference|VariantValue=PB3216-102/1A0
+ParamDesignator426=B1
+ParamVariation427=ParameterName=PCB3D|VariantValue= 
+ParamDesignator427=B1
+ParamVariation428=ParameterName=Pin Info|VariantValue= 
+ParamDesignator428=B1
+ParamVariation429=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator429=B1
+ParamVariation430=ParameterName=Simulation|VariantValue= 
+ParamDesignator430=B1
+ParamVariation431=ParameterName=厂家|VariantValue=振华富
+ParamDesignator431=B1
+ParamVariation432=ParameterName=型号|VariantValue=PB3216-102/1A0
+ParamDesignator432=B1
+ParamVariation433=ParameterName=封装|VariantValue=1206
+ParamDesignator433=B1
+ParamVariation434=ParameterName=类型|VariantValue=PB型大电流磁珠
+ParamDesignator434=B1
+ParamVariation435=ParameterName=订货编码|VariantValue=-
+ParamDesignator435=B1
+Variation35=Designator=C13|UniqueId=\YBFJHFJO|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation436=ParameterName=Comment|VariantValue=47uF
+ParamDesignator436=C13
+ParamVariation437=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator437=C13
+ParamVariation438=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator438=C13
+ParamVariation439=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator439=C13
+ParamVariation440=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator440=C13
+ParamVariation441=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator441=C13
+ParamVariation442=ParameterName=PCB3D|VariantValue= 
+ParamDesignator442=C13
+ParamVariation443=ParameterName=Pin Info|VariantValue= 
+ParamDesignator443=C13
+ParamVariation444=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator444=C13
+ParamVariation445=ParameterName=Simulation|VariantValue= 
+ParamDesignator445=C13
+ParamVariation446=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator446=C13
+ParamVariation447=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator447=C13
+ParamVariation448=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator448=C13
+ParamVariation449=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator449=C13
+ParamVariation450=ParameterName=订货编码|VariantValue=-
+ParamDesignator450=C13
+Variation36=Designator=C20|UniqueId=\GQEHVWYF|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation451=ParameterName=Comment|VariantValue=47uF
+ParamDesignator451=C20
+ParamVariation452=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator452=C20
+ParamVariation453=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator453=C20
+ParamVariation454=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator454=C20
+ParamVariation455=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator455=C20
+ParamVariation456=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator456=C20
+ParamVariation457=ParameterName=PCB3D|VariantValue= 
+ParamDesignator457=C20
+ParamVariation458=ParameterName=Pin Info|VariantValue= 
+ParamDesignator458=C20
+ParamVariation459=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator459=C20
+ParamVariation460=ParameterName=Simulation|VariantValue= 
+ParamDesignator460=C20
+ParamVariation461=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator461=C20
+ParamVariation462=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator462=C20
+ParamVariation463=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator463=C20
+ParamVariation464=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator464=C20
+ParamVariation465=ParameterName=订货编码|VariantValue=-
+ParamDesignator465=C20
+Variation37=Designator=C19|UniqueId=\NGSLKHZL|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation466=ParameterName=Comment|VariantValue=47uF
+ParamDesignator466=C19
+ParamVariation467=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator467=C19
+ParamVariation468=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator468=C19
+ParamVariation469=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator469=C19
+ParamVariation470=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator470=C19
+ParamVariation471=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator471=C19
+ParamVariation472=ParameterName=PCB3D|VariantValue= 
+ParamDesignator472=C19
+ParamVariation473=ParameterName=Pin Info|VariantValue= 
+ParamDesignator473=C19
+ParamVariation474=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator474=C19
+ParamVariation475=ParameterName=Simulation|VariantValue= 
+ParamDesignator475=C19
+ParamVariation476=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator476=C19
+ParamVariation477=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator477=C19
+ParamVariation478=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator478=C19
+ParamVariation479=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator479=C19
+ParamVariation480=ParameterName=订货编码|VariantValue=-
+ParamDesignator480=C19
+Variation38=Designator=C22|UniqueId=\OJKQHQDO|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation481=ParameterName=Comment|VariantValue=47uF
+ParamDesignator481=C22
+ParamVariation482=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator482=C22
+ParamVariation483=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator483=C22
+ParamVariation484=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator484=C22
+ParamVariation485=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator485=C22
+ParamVariation486=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator486=C22
+ParamVariation487=ParameterName=PCB3D|VariantValue= 
+ParamDesignator487=C22
+ParamVariation488=ParameterName=Pin Info|VariantValue= 
+ParamDesignator488=C22
+ParamVariation489=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator489=C22
+ParamVariation490=ParameterName=Simulation|VariantValue= 
+ParamDesignator490=C22
+ParamVariation491=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator491=C22
+ParamVariation492=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator492=C22
+ParamVariation493=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator493=C22
+ParamVariation494=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator494=C22
+ParamVariation495=ParameterName=订货编码|VariantValue=-
+ParamDesignator495=C22
+Variation39=Designator=C27|UniqueId=\FBVLQGTX|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation496=ParameterName=Comment|VariantValue=47uF
+ParamDesignator496=C27
+ParamVariation497=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator497=C27
+ParamVariation498=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator498=C27
+ParamVariation499=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator499=C27
+ParamVariation500=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator500=C27
+ParamVariation501=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator501=C27
+ParamVariation502=ParameterName=PCB3D|VariantValue= 
+ParamDesignator502=C27
+ParamVariation503=ParameterName=Pin Info|VariantValue= 
+ParamDesignator503=C27
+ParamVariation504=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator504=C27
+ParamVariation505=ParameterName=Simulation|VariantValue= 
+ParamDesignator505=C27
+ParamVariation506=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator506=C27
+ParamVariation507=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator507=C27
+ParamVariation508=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator508=C27
+ParamVariation509=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator509=C27
+ParamVariation510=ParameterName=订货编码|VariantValue=-
+ParamDesignator510=C27
+Variation40=Designator=C25|UniqueId=\RSBEEWCH|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation511=ParameterName=Comment|VariantValue=47uF
+ParamDesignator511=C25
+ParamVariation512=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator512=C25
+ParamVariation513=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator513=C25
+ParamVariation514=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator514=C25
+ParamVariation515=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator515=C25
+ParamVariation516=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator516=C25
+ParamVariation517=ParameterName=PCB3D|VariantValue= 
+ParamDesignator517=C25
+ParamVariation518=ParameterName=Pin Info|VariantValue= 
+ParamDesignator518=C25
+ParamVariation519=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator519=C25
+ParamVariation520=ParameterName=Simulation|VariantValue= 
+ParamDesignator520=C25
+ParamVariation521=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator521=C25
+ParamVariation522=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator522=C25
+ParamVariation523=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator523=C25
+ParamVariation524=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator524=C25
+ParamVariation525=ParameterName=订货编码|VariantValue=-
+ParamDesignator525=C25
+Variation41=Designator=C28|UniqueId=\AHOSYYZG|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation526=ParameterName=Comment|VariantValue=47uF
+ParamDesignator526=C28
+ParamVariation527=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator527=C28
+ParamVariation528=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator528=C28
+ParamVariation529=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator529=C28
+ParamVariation530=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator530=C28
+ParamVariation531=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator531=C28
+ParamVariation532=ParameterName=PCB3D|VariantValue= 
+ParamDesignator532=C28
+ParamVariation533=ParameterName=Pin Info|VariantValue= 
+ParamDesignator533=C28
+ParamVariation534=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator534=C28
+ParamVariation535=ParameterName=Simulation|VariantValue= 
+ParamDesignator535=C28
+ParamVariation536=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator536=C28
+ParamVariation537=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator537=C28
+ParamVariation538=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator538=C28
+ParamVariation539=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator539=C28
+ParamVariation540=ParameterName=订货编码|VariantValue=-
+ParamDesignator540=C28
+Variation42=Designator=C18|UniqueId=\KIKLUFUD|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation541=ParameterName=Comment|VariantValue=47uF
+ParamDesignator541=C18
+ParamVariation542=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator542=C18
+ParamVariation543=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator543=C18
+ParamVariation544=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator544=C18
+ParamVariation545=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator545=C18
+ParamVariation546=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator546=C18
+ParamVariation547=ParameterName=PCB3D|VariantValue= 
+ParamDesignator547=C18
+ParamVariation548=ParameterName=Pin Info|VariantValue= 
+ParamDesignator548=C18
+ParamVariation549=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator549=C18
+ParamVariation550=ParameterName=Simulation|VariantValue= 
+ParamDesignator550=C18
+ParamVariation551=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator551=C18
+ParamVariation552=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator552=C18
+ParamVariation553=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator553=C18
+ParamVariation554=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator554=C18
+ParamVariation555=ParameterName=订货编码|VariantValue=-
+ParamDesignator555=C18
+Variation43=Designator=C29|UniqueId=\VGKWGBTI|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation556=ParameterName=Comment|VariantValue=47uF
+ParamDesignator556=C29
+ParamVariation557=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator557=C29
+ParamVariation558=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator558=C29
+ParamVariation559=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator559=C29
+ParamVariation560=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator560=C29
+ParamVariation561=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator561=C29
+ParamVariation562=ParameterName=PCB3D|VariantValue= 
+ParamDesignator562=C29
+ParamVariation563=ParameterName=Pin Info|VariantValue= 
+ParamDesignator563=C29
+ParamVariation564=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator564=C29
+ParamVariation565=ParameterName=Simulation|VariantValue= 
+ParamDesignator565=C29
+ParamVariation566=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator566=C29
+ParamVariation567=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator567=C29
+ParamVariation568=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator568=C29
+ParamVariation569=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator569=C29
+ParamVariation570=ParameterName=订货编码|VariantValue=-
+ParamDesignator570=C29
+Variation44=Designator=C32|UniqueId=\RBCXZKYF|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation571=ParameterName=Comment|VariantValue=47uF
+ParamDesignator571=C32
+ParamVariation572=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator572=C32
+ParamVariation573=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator573=C32
+ParamVariation574=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator574=C32
+ParamVariation575=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator575=C32
+ParamVariation576=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator576=C32
+ParamVariation577=ParameterName=PCB3D|VariantValue= 
+ParamDesignator577=C32
+ParamVariation578=ParameterName=Pin Info|VariantValue= 
+ParamDesignator578=C32
+ParamVariation579=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator579=C32
+ParamVariation580=ParameterName=Simulation|VariantValue= 
+ParamDesignator580=C32
+ParamVariation581=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator581=C32
+ParamVariation582=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator582=C32
+ParamVariation583=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator583=C32
+ParamVariation584=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator584=C32
+ParamVariation585=ParameterName=订货编码|VariantValue=-
+ParamDesignator585=C32
+Variation45=Designator=C31|UniqueId=\BWSJYGTS|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation586=ParameterName=Comment|VariantValue=47uF
+ParamDesignator586=C31
+ParamVariation587=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator587=C31
+ParamVariation588=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator588=C31
+ParamVariation589=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator589=C31
+ParamVariation590=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator590=C31
+ParamVariation591=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator591=C31
+ParamVariation592=ParameterName=PCB3D|VariantValue= 
+ParamDesignator592=C31
+ParamVariation593=ParameterName=Pin Info|VariantValue= 
+ParamDesignator593=C31
+ParamVariation594=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator594=C31
+ParamVariation595=ParameterName=Simulation|VariantValue= 
+ParamDesignator595=C31
+ParamVariation596=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator596=C31
+ParamVariation597=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator597=C31
+ParamVariation598=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator598=C31
+ParamVariation599=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator599=C31
+ParamVariation600=ParameterName=订货编码|VariantValue=-
+ParamDesignator600=C31
+Variation46=Designator=C26|UniqueId=\JPEUAMVD|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation601=ParameterName=Comment|VariantValue=47uF
+ParamDesignator601=C26
+ParamVariation602=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator602=C26
+ParamVariation603=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator603=C26
+ParamVariation604=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator604=C26
+ParamVariation605=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator605=C26
+ParamVariation606=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator606=C26
+ParamVariation607=ParameterName=PCB3D|VariantValue= 
+ParamDesignator607=C26
+ParamVariation608=ParameterName=Pin Info|VariantValue= 
+ParamDesignator608=C26
+ParamVariation609=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator609=C26
+ParamVariation610=ParameterName=Simulation|VariantValue= 
+ParamDesignator610=C26
+ParamVariation611=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator611=C26
+ParamVariation612=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator612=C26
+ParamVariation613=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator613=C26
+ParamVariation614=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator614=C26
+ParamVariation615=ParameterName=订货编码|VariantValue=-
+ParamDesignator615=C26
+Variation47=Designator=C24|UniqueId=\LWIDOVOH|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation616=ParameterName=Comment|VariantValue=47uF
+ParamDesignator616=C24
+ParamVariation617=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator617=C24
+ParamVariation618=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator618=C24
+ParamVariation619=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator619=C24
+ParamVariation620=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator620=C24
+ParamVariation621=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator621=C24
+ParamVariation622=ParameterName=PCB3D|VariantValue= 
+ParamDesignator622=C24
+ParamVariation623=ParameterName=Pin Info|VariantValue= 
+ParamDesignator623=C24
+ParamVariation624=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator624=C24
+ParamVariation625=ParameterName=Simulation|VariantValue= 
+ParamDesignator625=C24
+ParamVariation626=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator626=C24
+ParamVariation627=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator627=C24
+ParamVariation628=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator628=C24
+ParamVariation629=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator629=C24
+ParamVariation630=ParameterName=订货编码|VariantValue=-
+ParamDesignator630=C24
+Variation48=Designator=C23|UniqueId=\WMZKHXQP|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation631=ParameterName=Comment|VariantValue=47uF
+ParamDesignator631=C23
+ParamVariation632=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator632=C23
+ParamVariation633=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator633=C23
+ParamVariation634=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator634=C23
+ParamVariation635=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator635=C23
+ParamVariation636=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator636=C23
+ParamVariation637=ParameterName=PCB3D|VariantValue= 
+ParamDesignator637=C23
+ParamVariation638=ParameterName=Pin Info|VariantValue= 
+ParamDesignator638=C23
+ParamVariation639=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator639=C23
+ParamVariation640=ParameterName=Simulation|VariantValue= 
+ParamDesignator640=C23
+ParamVariation641=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator641=C23
+ParamVariation642=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator642=C23
+ParamVariation643=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator643=C23
+ParamVariation644=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator644=C23
+ParamVariation645=ParameterName=订货编码|VariantValue=-
+ParamDesignator645=C23
+Variation49=Designator=C17|UniqueId=\WHWHQWFK|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation646=ParameterName=Comment|VariantValue=47uF
+ParamDesignator646=C17
+ParamVariation647=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator647=C17
+ParamVariation648=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator648=C17
+ParamVariation649=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator649=C17
+ParamVariation650=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator650=C17
+ParamVariation651=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator651=C17
+ParamVariation652=ParameterName=PCB3D|VariantValue= 
+ParamDesignator652=C17
+ParamVariation653=ParameterName=Pin Info|VariantValue= 
+ParamDesignator653=C17
+ParamVariation654=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator654=C17
+ParamVariation655=ParameterName=Simulation|VariantValue= 
+ParamDesignator655=C17
+ParamVariation656=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator656=C17
+ParamVariation657=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator657=C17
+ParamVariation658=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator658=C17
+ParamVariation659=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator659=C17
+ParamVariation660=ParameterName=订货编码|VariantValue=-
+ParamDesignator660=C17
+Variation50=Designator=C30|UniqueId=\TEATWOTA|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation661=ParameterName=Comment|VariantValue=47uF
+ParamDesignator661=C30
+ParamVariation662=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator662=C30
+ParamVariation663=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator663=C30
+ParamVariation664=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator664=C30
+ParamVariation665=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator665=C30
+ParamVariation666=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator666=C30
+ParamVariation667=ParameterName=PCB3D|VariantValue= 
+ParamDesignator667=C30
+ParamVariation668=ParameterName=Pin Info|VariantValue= 
+ParamDesignator668=C30
+ParamVariation669=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator669=C30
+ParamVariation670=ParameterName=Simulation|VariantValue= 
+ParamDesignator670=C30
+ParamVariation671=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator671=C30
+ParamVariation672=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator672=C30
+ParamVariation673=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator673=C30
+ParamVariation674=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator674=C30
+ParamVariation675=ParameterName=订货编码|VariantValue=-
+ParamDesignator675=C30
+Variation51=Designator=C21|UniqueId=\UIIQBSEH|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation676=ParameterName=Comment|VariantValue=47uF
+ParamDesignator676=C21
+ParamVariation677=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator677=C21
+ParamVariation678=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator678=C21
+ParamVariation679=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator679=C21
+ParamVariation680=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator680=C21
+ParamVariation681=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator681=C21
+ParamVariation682=ParameterName=PCB3D|VariantValue= 
+ParamDesignator682=C21
+ParamVariation683=ParameterName=Pin Info|VariantValue= 
+ParamDesignator683=C21
+ParamVariation684=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator684=C21
+ParamVariation685=ParameterName=Simulation|VariantValue= 
+ParamDesignator685=C21
+ParamVariation686=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator686=C21
+ParamVariation687=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator687=C21
+ParamVariation688=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator688=C21
+ParamVariation689=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator689=C21
+ParamVariation690=ParameterName=订货编码|VariantValue=-
+ParamDesignator690=C21
+Variation52=Designator=C16|UniqueId=\SHYVENMI|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation691=ParameterName=Comment|VariantValue=47uF
+ParamDesignator691=C16
+ParamVariation692=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator692=C16
+ParamVariation693=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator693=C16
+ParamVariation694=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator694=C16
+ParamVariation695=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator695=C16
+ParamVariation696=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator696=C16
+ParamVariation697=ParameterName=PCB3D|VariantValue= 
+ParamDesignator697=C16
+ParamVariation698=ParameterName=Pin Info|VariantValue= 
+ParamDesignator698=C16
+ParamVariation699=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator699=C16
+ParamVariation700=ParameterName=Simulation|VariantValue= 
+ParamDesignator700=C16
+ParamVariation701=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator701=C16
+ParamVariation702=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator702=C16
+ParamVariation703=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator703=C16
+ParamVariation704=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator704=C16
+ParamVariation705=ParameterName=订货编码|VariantValue=-
+ParamDesignator705=C16
+Variation53=Designator=C15|UniqueId=\FMHSCNHO|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation706=ParameterName=Comment|VariantValue=47uF
+ParamDesignator706=C15
+ParamVariation707=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator707=C15
+ParamVariation708=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator708=C15
+ParamVariation709=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator709=C15
+ParamVariation710=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator710=C15
+ParamVariation711=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator711=C15
+ParamVariation712=ParameterName=PCB3D|VariantValue= 
+ParamDesignator712=C15
+ParamVariation713=ParameterName=Pin Info|VariantValue= 
+ParamDesignator713=C15
+ParamVariation714=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator714=C15
+ParamVariation715=ParameterName=Simulation|VariantValue= 
+ParamDesignator715=C15
+ParamVariation716=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator716=C15
+ParamVariation717=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator717=C15
+ParamVariation718=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator718=C15
+ParamVariation719=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator719=C15
+ParamVariation720=ParameterName=订货编码|VariantValue=-
+ParamDesignator720=C15
+Variation54=Designator=C14|UniqueId=\PSYVLIAW|Kind=2|AlternatePart=47uF|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CAK55-H-35V-47uF-K|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CASE-E_7343|AltLibLink_IsSameFootprint=True
+ParamVariation721=ParameterName=Comment|VariantValue=47uF
+ParamDesignator721=C14
+ParamVariation722=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator722=C14
+ParamVariation723=ParameterName=Description|VariantValue=CAK55 有失效率等级的导电聚合物片式钽电容器
+ParamDesignator723=C14
+ParamVariation724=ParameterName=Footprint|VariantValue=CASE-E_7343
+ParamDesignator724=C14
+ParamVariation725=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator725=C14
+ParamVariation726=ParameterName=Library Reference|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator726=C14
+ParamVariation727=ParameterName=PCB3D|VariantValue= 
+ParamDesignator727=C14
+ParamVariation728=ParameterName=Pin Info|VariantValue= 
+ParamDesignator728=C14
+ParamVariation729=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator729=C14
+ParamVariation730=ParameterName=Simulation|VariantValue= 
+ParamDesignator730=C14
+ParamVariation731=ParameterName=厂家|VariantValue=振华新云
+ParamDesignator731=C14
+ParamVariation732=ParameterName=型号|VariantValue=CAK55-H-35V-47uF-K
+ParamDesignator732=C14
+ParamVariation733=ParameterName=封装|VariantValue=CASE-E_7343
+ParamDesignator733=C14
+ParamVariation734=ParameterName=类型|VariantValue=CAK55聚合物钽电容
+ParamDesignator734=C14
+ParamVariation735=ParameterName=订货编码|VariantValue=-
+ParamDesignator735=C14
+ParamVariationCount=735
+
+[ProjectVariant2]
+UniqueID=E1DD6EDE-C0E6-4D5C-BAD1-47CB4DB064C1
+Description=工业级阻感容
+AllowFabrication=1
+ParameterCount=0
+VariationCount=5
+Variation1=Designator=P4|UniqueId=\PSZEPNFZ|Kind=1|AlternatePart= 
+Variation2=Designator=P1|UniqueId=\KLURPPLZ|Kind=1|AlternatePart= 
+Variation3=Designator=J1|UniqueId=\NHSJRNWX|Kind=1|AlternatePart= 
+Variation4=Designator=P2|UniqueId=\RIMDSXVN|Kind=1|AlternatePart= 
+Variation5=Designator=P3|UniqueId=\PYNXNHQT|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=..\..\ADlib\template\BOM_A3_OnePage.xlt
+TemplateStoreRelative=-1
+PCB_PrintColor=0
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=航天级
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
+
+[Generic_EDE]
+OutputDir=
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Foxit Phantom Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=类型=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=类型=100|型号=100|Comment=120|Designator=120|Quantity=120|封装=100|厂家=100|Description=120
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=类型=100|型号=100|Comment=120|Designator=120|Quantity=120|封装=100|厂家=100|Description=120
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=1
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=00Lib.IntLib
+ComponentDesignItemID0=0.5R/2512
+ComponentSymbolReference0=0.5R/2512
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=00Lib.IntLib
+ComponentDesignItemID1=100nF/0603/50V
+ComponentSymbolReference1=100nF/0603/50V
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=00Lib.IntLib
+ComponentDesignItemID2=100pF/0603/50V
+ComponentSymbolReference2=100pF/0603/50V
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=00Lib.IntLib
+ComponentDesignItemID3=150R/2512
+ComponentSymbolReference3=150R/2512
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=00Lib.IntLib
+ComponentDesignItemID4=1kΩ@100MHz
+ComponentSymbolReference4=1kΩ@100MHz
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=00Lib.IntLib
+ComponentDesignItemID5=1M/0603
+ComponentSymbolReference5=1M/0603
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=00Lib.IntLib
+ComponentDesignItemID6=1R/0603
+ComponentSymbolReference6=1R/0603
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=00Lib.IntLib
+ComponentDesignItemID7=3.3uF/0805/25V
+ComponentSymbolReference7=3.3uF/0805/25V
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=00Lib.IntLib
+ComponentDesignItemID8=330R/2512
+ComponentSymbolReference8=330R/2512
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=00Lib.IntLib
+ComponentDesignItemID9=470uH
+ComponentSymbolReference9=470uH
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=00Lib.IntLib
+ComponentDesignItemID10=750R/2512
+ComponentSymbolReference10=750R/2512
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=00Lib.IntLib
+ComponentDesignItemID11=BAS28,215
+ComponentSymbolReference11=BAS28,215
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=00Lib.IntLib
+ComponentDesignItemID12=Cap Pol/47uF/35V
+ComponentSymbolReference12=Cap Pol/47uF/35V
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=00Lib.IntLib
+ComponentDesignItemID13=FDV301N
+ComponentSymbolReference13=FDV301N
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=00Lib.IntLib
+ComponentDesignItemID14=Header 2
+ComponentSymbolReference14=Header 2
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=00Lib.IntLib
+ComponentDesignItemID15=HEADER3/2.54
+ComponentSymbolReference15=HEADER3/2.54
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=00Lib.IntLib
+ComponentDesignItemID16=IRF7807ZTRPBF
+ComponentSymbolReference16=IRF7807ZTRPBF
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=00Lib.IntLib
+ComponentDesignItemID17=MMBT3904LT3G
+ComponentSymbolReference17=MMBT3904LT3G
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=00Lib.IntLib
+ComponentDesignItemID18=MMBT3906TT1G
+ComponentSymbolReference18=MMBT3906TT1G
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=00Lib.IntLib
+ComponentDesignItemID19=SMBJ5.0CA
+ComponentSymbolReference19=SMBJ5.0CA
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=00Lib.IntLib
+ComponentDesignItemID20=TRANSFORM
+ComponentSymbolReference20=TRANSFORM
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=厂家
+ParameterUpdate4=1
+ParameterName5=订货编码
+ParameterUpdate5=1
+ParameterName6=封装
+ParameterUpdate6=1
+ParameterName7=类型
+ParameterUpdate7=1
+ParameterName8=型号
+ParameterUpdate8=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CASE-E_7343
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CD0.254
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CON_SAMTEC_TSW-102-07-G-S
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CP1X2
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=R0603_C
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=R0603_R
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=R0805_C
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=R1206_L
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=R2512_R
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=S0603C
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=S0603R
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=S0805C
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=S1206R
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=SIP3/2.54
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SMB
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=SOP-8_150mil
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=SOT143
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SOT-23
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SOT-23(SOT-23-3)
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=TRANS5
+ModelUpdate19=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=22400000|PrintAreaLowerLeftCornerY=14800000|PrintAreaUpperRightCornerX=59050000|PrintAreaUpperRightCornerY=46750000|Record=PcbPrintView|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name12=OutputConfigurationParameter12
+Configuration_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical100|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+Configuration_Name13=OutputConfigurationParameter13
+Configuration_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical101|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\Git\3pcb_88_82_75\pcb_75\pcb_75.PcbDoc
+

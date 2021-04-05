@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=多板连线图.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB-75|Source=..\pcb_75\pcb_75.PrjPcb
+Record=SubProject|SourceDocument=多板连线图.MbsDoc|ProjectPath=..\pcb_75\pcb_75.PrjPcb
+Record=DiagramHierarchy|SourceDocument=多板连线图.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB-82|Source=..\pcb_82\pcb_82.PrjPcb
+Record=SubProject|SourceDocument=多板连线图.MbsDoc|ProjectPath=..\pcb_82\pcb_82.PrjPcb
+Record=DiagramHierarchy|SourceDocument=多板连线图.MbsDoc|Kind=Multi-board Schematic Module|Designator=PCB-88|Source=..\pcb_88\pcb_88.PrjPcb
+Record=SubProject|SourceDocument=多板连线图.MbsDoc|ProjectPath=..\pcb_88\pcb_88.PrjPcb

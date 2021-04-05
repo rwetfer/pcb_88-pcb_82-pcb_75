@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : D:\Git\4pcb_88_82_75_60-3pcb_50-1_50-2_55\pcb_88\pcb_88.PcbDoc
+Date     : 2021/4/5
+Time     : 19:24:47
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_AblationChannel3 (Bounding Region = (3495.484mil, 1712.366mil, 3822.484mil, 2157.366mil) (InComponentClass('U_AblationChannel3'))
+Rule Violations :0
+
+Processing Rule : Room TOP (Bounding Region = (2641mil, 2289mil, 5560mil, 4232mil) (InComponentClass('TOP'))
+Rule Violations :0
+
+Processing Rule : Room U_Battery1 (Bounding Region = (4203mil, 1533mil, 4608mil, 2398mil) (InComponentClass('U_Battery1'))
+Rule Violations :0
+
+Processing Rule : Room U_ThermocoupleADC (Bounding Region = (3058mil, 2439mil, 5388mil, 4788mil) (InComponentClass('U_ThermocoupleADC'))
+Rule Violations :0
+
+Processing Rule : Room U_Battery2 (Bounding Region = (2802mil, 2310mil, 3373mil, 3188mil) (InComponentClass('U_Battery2'))
+Rule Violations :0
+
+Processing Rule : Room U_Thermocouple channel4 (Bounding Region = (4068.349mil, 3678.914mil, 4562.154mil, 4434.349mil) (InComponentClass('U_Thermocouple channel4'))
+Rule Violations :0
+
+Processing Rule : Room U_AblationChannel4 (Bounding Region = (3855mil, 2015mil, 4183mil, 2455mil) (InComponentClass('U_AblationChannel4'))
+Rule Violations :0
+
+Processing Rule : Room U_AblationChannel5 (Bounding Region = (3855mil, 1570mil, 4183mil, 2010mil) (InComponentClass('U_AblationChannel5'))
+Rule Violations :0
+
+Processing Rule : Room U_MCU2 (Bounding Region = (2594mil, 2830mil, 3390mil, 4395mil) (InComponentClass('U_MCU2'))
+Rule Violations :0
+
+Processing Rule : Room U_AblationChannel1 (Bounding Region = (3243.811mil, 2359.164mil, 3571.812mil, 2800.164mil) (InComponentClass('U_AblationChannel1'))
+Rule Violations :0
+
+Processing Rule : Room U_AblationChannel2 (Bounding Region = (3156mil, 1907mil, 3483mil, 2348mil) (InComponentClass('U_AblationChannel2'))
+Rule Violations :0
+
+Processing Rule : Room U_Thermocouple channel5 (Bounding Region = (3805mil, 3765mil, 4130mil, 4460mil) (InComponentClass('U_Thermocouple channel5'))
+Rule Violations :0
+
+Processing Rule : Room U_MCU1 (Bounding Region = (4570.002mil, 1705.008mil, 5610.003mil, 2910.008mil) (InComponentClass('U_MCU1'))
+Rule Violations :0
+
+Processing Rule : Room U_Thermocouple channel2 (Bounding Region = (4545.692mil, 3334.494mil, 5266.941mil, 4055.743mil) (InComponentClass('U_Thermocouple channel2'))
+Rule Violations :0
+
+Processing Rule : Room U_Thermocouple channel1 (Bounding Region = (4731.77mil, 3090.623mil, 5500.487mil, 3722.081mil) (InComponentClass('U_Thermocouple channel1'))
+Rule Violations :0
+
+Processing Rule : Room U_Thermocouple channel3 (Bounding Region = (4307.239mil, 3513.171mil, 4950.527mil, 4297.379mil) (InComponentClass('U_Thermocouple channel3'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

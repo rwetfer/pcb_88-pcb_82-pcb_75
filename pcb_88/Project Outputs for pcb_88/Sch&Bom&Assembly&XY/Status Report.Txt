@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:21:28 On 2021/4/5
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [pcb_88.PcbDoc]
+   Generated File[Pick Place for pcb_88.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:21:30 On 2021/4/5
