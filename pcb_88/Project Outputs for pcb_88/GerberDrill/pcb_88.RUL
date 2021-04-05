@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Git\4pcb_88_82_75_60-3pcb_50-1_50-2_55\pcb_88\pcb_88.PcbDoc
+DRC Rules Export File for PCB: D:\Git\pcb_88-pcb_82-pcb_75\pcb_88\pcb_88.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00

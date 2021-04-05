@@ -1652,6 +1652,86 @@ Variation4=Designator=P2|UniqueId=\RIMDSXVN|Kind=1|AlternatePart=
 Variation5=Designator=P3|UniqueId=\PYNXNHQT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for pcb_75\GerberDrill\pcb_75.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for pcb_75\Sch&Bom&Assembly&XY\Pick Place for pcb_75.csv
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for pcb_75\Sch&Bom&Assembly&XY\工业级阻感容.xls
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for pcb_75\Sch&Bom&Assembly&XY\高等级阻感容.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

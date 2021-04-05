@@ -3958,18 +3958,22 @@ ParamVariation1829=ParameterName=类型|VariantValue=PB型大电流磁珠
 ParamDesignator1829=L10
 ParamVariation1830=ParameterName=订货编码|VariantValue=-
 ParamDesignator1830=L10
-Variation135=Designator=L12|UniqueId=\AMXCQWFJ\IRGRYYQF|Kind=2|AlternatePart=2.2uH|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=2.2uH/NR2016|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=NR2016|AltLibLink_IsSameFootprint=True
+Variation135=Designator=L12|UniqueId=\AMXCQWFJ\IRGRYYQF|Kind=2|AlternatePart=2.2uH|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NR201610-2R2M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=NR2016|AltLibLink_IsSameFootprint=True
 ParamVariation1831=ParameterName=Comment|VariantValue=2.2uH
 ParamDesignator1831=L12
 ParamVariation1832=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1832=L12
-ParamVariation1833=ParameterName=Description|VariantValue=精度 ±20%
+ParamVariation1833=ParameterName=Description|VariantValue=电感值 2.2uH
+精度 ±20% 
+饱和电流 1.3A 
+温升电流1.15A
+直流电阻（内阻） 175mΩ
 ParamDesignator1833=L12
 ParamVariation1834=ParameterName=Footprint|VariantValue=NR2016
 ParamDesignator1834=L12
 ParamVariation1835=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator1835=L12
-ParamVariation1836=ParameterName=Library Reference|VariantValue=2.2uH/NR2016
+ParamVariation1836=ParameterName=Library Reference|VariantValue=NR201610-2R2M
 ParamDesignator1836=L12
 ParamVariation1837=ParameterName=PCB3D|VariantValue= 
 ParamDesignator1837=L12
@@ -3979,28 +3983,32 @@ ParamVariation1839=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator1839=L12
 ParamVariation1840=ParameterName=Simulation|VariantValue= 
 ParamDesignator1840=L12
-ParamVariation1841=ParameterName=厂家|VariantValue=Sunlord(顺络)
+ParamVariation1841=ParameterName=厂家|VariantValue=振华富
 ParamDesignator1841=L12
-ParamVariation1842=ParameterName=型号|VariantValue=SPH201610U2R2MT
+ParamVariation1842=ParameterName=型号|VariantValue=NR201610-2R2M
 ParamDesignator1842=L12
 ParamVariation1843=ParameterName=封装|VariantValue=NR2016
 ParamDesignator1843=L12
-ParamVariation1844=ParameterName=类型|VariantValue=Inductor
+ParamVariation1844=ParameterName=类型|VariantValue=NR型功率电感器
 ParamDesignator1844=L12
-ParamVariation1845=ParameterName=订货编码|VariantValue=C96796
+ParamVariation1845=ParameterName=订货编码|VariantValue=-
 ParamDesignator1845=L12
-Variation136=Designator=L8|UniqueId=\AMXCQWFJ\DIPQDMHM|Kind=2|AlternatePart=2.2uH|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=2.2uH/NR2016|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=NR2016|AltLibLink_IsSameFootprint=True
+Variation136=Designator=L8|UniqueId=\AMXCQWFJ\DIPQDMHM|Kind=2|AlternatePart=2.2uH|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NR201610-2R2M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=NR2016|AltLibLink_IsSameFootprint=True
 ParamVariation1846=ParameterName=Comment|VariantValue=2.2uH
 ParamDesignator1846=L8
 ParamVariation1847=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1847=L8
-ParamVariation1848=ParameterName=Description|VariantValue=精度 ±20%
+ParamVariation1848=ParameterName=Description|VariantValue=电感值 2.2uH
+精度 ±20% 
+饱和电流 1.3A 
+温升电流1.15A
+直流电阻（内阻） 175mΩ
 ParamDesignator1848=L8
 ParamVariation1849=ParameterName=Footprint|VariantValue=NR2016
 ParamDesignator1849=L8
 ParamVariation1850=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator1850=L8
-ParamVariation1851=ParameterName=Library Reference|VariantValue=2.2uH/NR2016
+ParamVariation1851=ParameterName=Library Reference|VariantValue=NR201610-2R2M
 ParamDesignator1851=L8
 ParamVariation1852=ParameterName=PCB3D|VariantValue= 
 ParamDesignator1852=L8
@@ -4010,15 +4018,15 @@ ParamVariation1854=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator1854=L8
 ParamVariation1855=ParameterName=Simulation|VariantValue= 
 ParamDesignator1855=L8
-ParamVariation1856=ParameterName=厂家|VariantValue=Sunlord(顺络)
+ParamVariation1856=ParameterName=厂家|VariantValue=振华富
 ParamDesignator1856=L8
-ParamVariation1857=ParameterName=型号|VariantValue=SPH201610U2R2MT
+ParamVariation1857=ParameterName=型号|VariantValue=NR201610-2R2M
 ParamDesignator1857=L8
 ParamVariation1858=ParameterName=封装|VariantValue=NR2016
 ParamDesignator1858=L8
-ParamVariation1859=ParameterName=类型|VariantValue=Inductor
+ParamVariation1859=ParameterName=类型|VariantValue=NR型功率电感器
 ParamDesignator1859=L8
-ParamVariation1860=ParameterName=订货编码|VariantValue=C96796
+ParamVariation1860=ParameterName=订货编码|VariantValue=-
 ParamDesignator1860=L8
 Variation137=Designator=L9|UniqueId=\AMXCQWFJ\NEKGSSEE|Kind=2|AlternatePart=4.7uH|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Git\ADlib\00Lib\Project Outputs for 00Lib\00Lib.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NR252012-4R7M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=00Lib.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=NR2520|AltLibLink_IsSameFootprint=True
 ParamVariation1861=ParameterName=Comment|VariantValue=4.7uH
@@ -4300,7 +4308,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Foxit Phantom Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
