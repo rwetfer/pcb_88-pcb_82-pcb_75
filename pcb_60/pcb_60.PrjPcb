@@ -108,114 +108,58 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.REP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.REP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\GerberDrill\pcb_60.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for pcb_60\GerberDrill\pcb_60.TXT
 DItemRevisionGUID=
 
